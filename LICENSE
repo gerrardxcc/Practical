@@ -1,0 +1,14 @@
+©1996--2020, David J. Eck.
+This work is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 License.
+(This license allows you to redistribute this book in unmodified form for non-commercial purposes.
+It allows you to make and distribute modified versions for non-commercial purposes, as long as you
+include an attribution to the original author, clearly describe the modifications that you have made,
+and distribute the modified work under the same license as the original. Permission might be given by
+the author for other uses. See the license for full details.)
+
+This book is available for downloading and for on-line use at the Web address: http://math.hws.edu/javanotes/
+
+Modifications made by Jason Holdsworth:
+* Converted HTML to md
+* Rewrote Exercise 2.4 to use AUD instead of USD
+* Setup a Git controlled VCS project with sample solutions and discussion in the "intermediate commit"
