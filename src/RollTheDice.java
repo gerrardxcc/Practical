@@ -11,7 +11,7 @@ public class RollTheDice {
         roll = die3+die5;
 
         System.out.println("The first die comes up " + die3);
-        System.out.println("The first die comes up " + die5);
+        System.out.println("The second die comes up " + die5);
         System.out.println("Your total roll is "+ roll);
 
         // TODO - add code here to complete Exercise 2.2
