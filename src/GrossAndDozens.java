@@ -11,7 +11,7 @@ public class GrossAndDozens {
         int dozenEggs;
         int leftOver;
 
-        System.out.println("How many eggs do you have? ");
+        System.out.println("How many eggs do you have?      ");
         eggs = TextIO.getInt();
 
         gross = eggs / 144;
@@ -20,7 +20,7 @@ public class GrossAndDozens {
         dozenEggs = aboveGross/ 12;
         leftOver = aboveGross % 12;
 
-        System.out.print("Your number of eggs is ");
+        System.out.print("Your number of eggs is        ");
         System.out.print(gross);
         System.out.print(" gross, ");
         System.out.print(dozenEggs);

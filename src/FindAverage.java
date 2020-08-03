@@ -10,7 +10,7 @@ public class FindAverage {
         int exam1,exam2,exam3;
         double average;
 
-        TextIO.readFile("testdata.txt");
+        TextIO.readFile("./resources/testdata.txt");
 
         name = TextIO.getln();
         exam1 = TextIO.getInt();
